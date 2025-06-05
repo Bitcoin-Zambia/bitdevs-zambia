@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-**BitDevs Zambia** is a community of Bitcoin developers, educators, builders, and technically curious enthusiasts based in Zambia. Inspired by the original BitDevs NYC, we explore the inner workings of Bitcoin through meetups, workshops, study groups, and Socratic Seminars. Our focus includes Bitcoin protocol development, the Lightning Network, privacy tools, and practical local use cases.
+**BitDevs Zambia** is a community of Bitcoin developers, educators, builders, and technically curious enthusiasts based in Zambia. An initiative of <a href="https://bitcoinzambia.org" target="_blank" rel="noopener noreferrer">Bitcoin Zambia</a>, BitDevs Zambia is inspired by the original BitDevs NYC and explores the inner workings of Bitcoin through meetups, workshops, study groups, and Socratic Seminars.
+
+Our focus includes Bitcoin protocol development, the Lightning Network, privacy tools, and practical local use cases.
 
 We also share developer-focused opportunities such as grants, bounties, fellowships, and job openings in the Bitcoin ecosystem to help grow local talent and connect Zambian developers with the global open-source Bitcoin movement.
 
