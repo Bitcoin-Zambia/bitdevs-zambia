@@ -6,4 +6,4 @@ menu:
   - {name: 'Events', url: '/events'}
   - {name: 'Meetup', url: 'https://lu.ma/user/bitdevszm', external: true}
   - {name: "X", url: "https://x.com/bitdevszambia", external: true}
-
+  - {name: 'Donate', url: '/donate'}
