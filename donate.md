@@ -3,7 +3,7 @@ BitDevs Zambia is a grassroots group building local Bitcoin developer capacity t
 If you find our work valuable, please consider donating to help us cover basic event costs like venue, internet, and learning materials.
 
 ### ⚡ Donate via Lightning  
-**[https://www.lnurlpay.com/mincingnorth25@walletofsatoshi.com](mincingnorth25@walletofsatoshi.com)**
+**[mincingnorth25@walletofsatoshi.com](https://www.lnurlpay.com/mincingnorth25@walletofsatoshi.com)**
 
 ![Lightning QR Code](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=lightning:mincingnorth25@walletofsatoshi.com)
 
