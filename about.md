@@ -35,10 +35,11 @@ Want to contribute or present at a future event? [Contact us](mailto:ndesax@prot
 Whether you're a seasoned developer or new to Bitcoin, BitDevs Zambia is a space to learn, ask questions, and collaborate.
 
 👉 [Check out our events](/events)
+
 👉 [Check out our local Bitcoin meetup](https://bitcoinzambia.org/meetups/)  
+
 👉 [Follow us on X](https://x.com/bitdevszambia)<br>
+
 👉 [Follow us on GitHub](https://github.com/Bitcoin-Zambia/bitdevs-zambia)
-
-
 
 Together, we’re building a grassroots Bitcoin development community in Zambia.
