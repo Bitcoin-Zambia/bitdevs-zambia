@@ -10,7 +10,8 @@ We are proud to work with organisations and individuals who support Bitcoin educ
 
 <ul class="partners-list">
   <li class="partner">
-    <a href="https://bffbtc.org" target="_blank">Bitcoin for Fairness</a> — Supporting Grassroots Bitcoin Education in the Underdeveloped World.
+    <a href="https://bffbtc.org" target="_blank">Bitcoin for Fairness</a> — Supporting Grassroots Bitcoin Education in the Underdeveloped World.  
+    <a href="https://anitaposch.com/" target="_blank">(Anita Posch, author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa)</a>
   </li>
 
   <li class="partner">
@@ -25,4 +26,3 @@ We are proud to work with organisations and individuals who support Bitcoin educ
     <a href="https://www.walletofsatoshi.com/" target="_blank">Wallet of Satoshi</a> — The World's Simplest Bitcoin Lightning Wallet.
   </li>
 </ul>
-
