@@ -20,4 +20,9 @@ We are proud to work with organisations and individuals who support Bitcoin educ
   <li class="partner">
     <a href="https://www.voltage.cloud/" target="_blank">Voltage</a> — Global Lightning Payments Platform.
   </li>
+
+  <li class="partner">
+    <a href="https://www.walletofsatoshi.com/" target="_blank">Wallet of Satoshi</a> — The World's Simplest Bitcoin Lightning Wallet.
+  </li>
 </ul>
+
