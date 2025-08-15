@@ -10,8 +10,11 @@ We are proud to work with organisations and individuals who support Bitcoin educ
 
 <ul class="partners-list">
   <li class="partner">
-    <a href="https://bffbtc.org" target="_blank">Bitcoin for Fairness</a> — Supporting Grassroots Bitcoin Education in the Underdeveloped World.  
-    <a href="https://anitaposch.com/" target="_blank">(Anita Posch, author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa)</a>
+    <a href="https://bffbtc.org" target="_blank">Bitcoin for Fairness</a> — Supporting Grassroots Bitcoin Education in the Underdeveloped World.
+  </li>
+
+  <li class="partner">
+    <a href="https://anitaposch.com/" target="_blank">Anita Posch</a> — Author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa.
   </li>
 
   <li class="partner">
