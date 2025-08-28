@@ -15,4 +15,4 @@ BitDevs Zambia Seminar
 
 Follow BitDevsZambia on:
 
-- [Twitter](https://x.com/BitDevsZambia)
+- [Twitter](https://x.com/bitdevszambia)

@@ -4,6 +4,10 @@ type: socratic
 title: "Socratic Seminar 1"
 ---
 
+### Topic
+
+Launching BitDevs Zambia with guest speaker Anita Posch
+
 ### Location
 
 AfricaWorks, Lusaka, Zambia
@@ -14,6 +18,8 @@ We are excited to introduce our very first [Socratic Seminar](/about)!
 
 A meetup with Bitcoin educator Anita Posch focused on Bitcoin development and community building.
 
-Follow BitDevsZambia on:
+[Helpful Resources](https://anitaposch.com/bitcoin-devs-start/Resources-Devs-Meetup-Zambia-2025.pdf)
 
-- [Twitter](https://x.com/BitDevsZambia)
+Follow BitDevs Zambia on:
+
+- [Twitter](https://x.com/bitdevszambia)
