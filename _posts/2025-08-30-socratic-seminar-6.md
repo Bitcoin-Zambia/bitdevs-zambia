@@ -1,20 +1,19 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Lightning Bootcamp"
+title: "Monthly Socratic Seminar 6"
 ---
 
 ### Topic
 
-Bitcoin Lightning Bootcamp
+BitDevs Lusaka: Pathways & Polar
 
 ### Location
 
 The event is hosted at:
-AfricaWorks, Agora Village, Lusaka, Zambia
+AfricaWorks, Lusaka, Zambia
 
-On August 5–9, 2025
-From 10am - 4pm EAT daily
+At 3:00 PM - 5:00 PM
 
 [Location on Map](https://www.google.com/maps/search/?api=1&query=AfricaWorks%20Lusaka%20%40%204%20Bishop&query_place_id=ChIJM_hSdpuNQBkRVK5ecYClewc)
 
@@ -22,9 +21,9 @@ From 10am - 4pm EAT daily
 
 Please join us for our next Bitcoin Lightning Developer Bootcamp. A special thank you to our sponsors [Africa Free Routing](https://freerouting.africa/), [Btrust](https://www.btrust.tech/), [Tether](https://tether.to/), [Opensats](https://opensats.org/) and [African Bitcoiners](https://bitcoiners.africa/) for food, refreshments and event space.
 
-Join us in Lusaka for a 5-day hands-on Bitcoin Lightning Developer Bootcamp, designed to equip passionate builders with the skills to innovate and contribute to Africa’s fast-growing Bitcoin ecosystem.
+Join us for this month's BitDevs Lusaka meetup on Saturday, August 30th, as we dive into two exciting and critical areas of Bitcoin development. This isn't just another tech talk; it's a hands-on exploration of the tools and opportunities shaping the future of finance. 🛠️
 
-[Apply here](https://freerouting.africa/lusaka-lightning-developer-bootcamp/#luscholarship)
+[Register here](https://luma.com/rju8ltun?tk=lEG76t)
 
 Follow BitDevs Zambia on:
 
