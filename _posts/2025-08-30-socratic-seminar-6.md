@@ -6,7 +6,7 @@ title: "Monthly Socratic Seminar 6"
 
 ### Topic
 
-BitDevs Lusaka: Pathways & Polar
+BitDevs Lusaka: Pathways & [Polar](https://lightningpolar.com/)
 
 ### Location
 
