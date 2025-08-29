@@ -19,7 +19,7 @@ At 3:00 PM - 5:00 PM
 
 ## Announcements
 
-Please join us for our next Bitcoin Lightning Developer Bootcamp. A special thank you to our sponsors [Africa Free Routing](https://freerouting.africa/), [Btrust](https://www.btrust.tech/), [Tether](https://tether.to/), [Opensats](https://opensats.org/) and [African Bitcoiners](https://bitcoiners.africa/) for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Bitcoin Zambia](https://bitcoinzambia.org/) and [Wallet of Satoshi ](https://www.walletofsatoshi.com/) for food, refreshments and event space.
 
 Join us for this month's BitDevs Lusaka meetup on Saturday, August 30th, as we dive into two exciting and critical areas of Bitcoin development. This isn't just another tech talk; it's a hands-on exploration of the tools and opportunities shaping the future of finance. 🛠️
 

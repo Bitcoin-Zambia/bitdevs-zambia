@@ -19,6 +19,8 @@ At 3:00 PM - 5:00 PM GMT+2
 
 ## Announcements
 
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Bitcoin Zambia](https://bitcoinzambia.org/) and [Wallet of Satoshi ](https://www.walletofsatoshi.com/) for food, refreshments and event space.
+
 Ready to level up your Bitcoin game?
 Join BitDevs for a hands-on, high-energy session at AfricaWorks Lusaka, where we’ll dive into setting up your very own Mutinynet Lightning node and a simple Bitcoin wallet (demo by VOLTAGE). Whether you’re a Bitcoin newbie or a seasoned Bitcoiner, this is your chance to get practical, ask questions, and connect with fellow enthusiasts.
 
