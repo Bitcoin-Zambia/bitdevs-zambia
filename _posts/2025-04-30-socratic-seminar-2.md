@@ -6,7 +6,7 @@ title: "Socratic Seminar 2"
 
 ### Topic
 
-Bitcoin in Technical Terms
+What is the Lightning Network?
 
 ### Location
 
