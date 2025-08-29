@@ -1,85 +1,19 @@
 ---
 layout: default
-title: Events
-permalink: /events
+title: Meetings
 ---
 
-<div class="Home-posts">
-  <h1 class="Home-posts-title">Upcoming Events</h1>
-
-   <div class="Post">
-    <h3 class="Post-title">Monthly Socratic Seminar</h3>
-    <p><strong>Date:</strong> August 30, 2025<br>
-      <strong>Location:</strong> AfricaWorks, Lusaka, Zambia</p>
-     <p><strong>Announcement:</strong> <a href="https://luma.com/rju8ltun" target="_blank">https://luma.com/rju8ltun</a></p>
-
+<div class="Home">
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+    {% for post in site.posts %} {% if post.type == "socratic" %}
+    <div class="Home-posts-post">
+      <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+      <span class="Home-posts-post-arrow">&raquo;</span>
+      <a class="Home-posts-post-title" href="{{ post.url }}"
+        >{{ post.title }}</a
+      >
+    </div>
+    {% endif %} {% endfor %}
   </div>
-
-
-  <div class="Post">
-    <h3 class="Post-title">Bitcoin Hackathon</h3>
-    <p><strong>Date:</strong> 2025 (exact date and month to be announced)<br>
-      <strong>Location:</strong> Lusaka, Zambia</p>
-  </div>
-</div>
-
-<div class="Home-posts">
-  <h1 class="Home-posts-title">Past Events</h1>
-
-   <div class="Post">
-  <h3 class="Post-title">Bitcoin Lightning Bootcamp</h3>
-  <p><strong>Date:</strong> August 5–9, 2025<br>
-     <strong>Location:</strong> AfricaWorks, Agora Village, Lusaka, Zambia</p>
-  <p><strong>Announcement:</strong> <a href="https://freerouting.africa/lusaka-lightning-developer-bootcamp/" target="_blank">https://freerouting.africa/lusaka-lightning-developer-bootcamp/</a></p>
-</div>
-
-  <div class="Post">
-    <h3 class="Post-title">Lightning Wallet Demo Showcase</h3>
-    <p><strong>Date:</strong> Saturday, July 26, 2025<br>
-      <strong>Time:</strong> 3:00 PM - 5:00 PM GMT+2<br>
-      <strong>Location:</strong> AfricaWorks, Lusaka, Zambia</p>
-    <p><strong>Announcement:</strong> <a href="https://luma.com/cldaldgt" target="_blank">https://luma.com/cldaldgt</a></p>
-  </div>
-
-  
-  <div class="Post">
-    <h3 class="Post-title">Mutinynet/Voltage Lightning Wallet Creation Live Demo</h3>
-    <p><strong>Date:</strong> Saturday, June 28, 2025<br>
-      <strong>Time:</strong> 3:00 PM - 5:00 PM GMT+2<br>
-      <strong>Location:</strong> AfricaWorks, Lusaka, Zambia<br>
-      <p><strong>Announcement:</strong> <a href="https://luma.com/lk6ji39q" target="_blank">https://luma.com/lk6ji39q</a></p>
-    
-      
-    </p>
-  </div>
-
-  <div class="Post">
-    <h3 class="Post-title">BitDevs Zambia Seminar</h3>
-    <p><strong>Date:</strong> Saturday, May 31, 2025<br>
-      <strong>Time:</strong> 3:00 PM – 4:30 PM GMT+2<br>
-      <strong>Location:</strong> Global Platform Zambia, T4, Lusaka, Zambia<br>
-<p><strong>Announcement:</strong> <a href="https://luma.com/cnydvxph" target="_blank">https://luma.com/cnydvxph</a></p>
-    
-    </p>
-  </div>
-
-
-  <div class="Post">
-    <h3 class="Post-title">BitDevs Zambia Seminar</h3>
-    <p><strong>Date:</strong> Saturday, March 31, 2025<br>
-      <strong>Time:</strong> 3:00 PM – 4:30 PM GMT+2<br>
-      <strong>Location:</strong> Global Platform Zambia, T4, Lusaka, Zambia<br>
-    </p>
-  </div>
-
-   <div class="Post">
-    <h3 class="Post-title">Bitcoin Developers Meetup with Anita Posch</h3>
-    <p>
-      <strong>Date:</strong> March 26, 2025<br>
-      <strong>Location:</strong> AfricaWorks, Lusaka, Zambia<br>
-      <strong>Details:</strong> A meetup with Bitcoin educator Anita Posch focused on Bitcoin development and community building.<br>
-<p><strong>Announcement:</strong> <a href="https://luma.com/ddh7tooy" target="_blank">https://luma.com/ddh7tooy</a></p>
-   </p>
-  </div>
-
 </div>
