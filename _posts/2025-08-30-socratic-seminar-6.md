@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Monthly Socratic Seminar 6"
+title: "Socratic Seminar 6"
 ---
 
 ### Topic

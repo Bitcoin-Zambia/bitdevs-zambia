@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 1"
+title: "Socratic Seminar 1: Launching BitDevs Zambia"
 ---
 
 ### Topic
