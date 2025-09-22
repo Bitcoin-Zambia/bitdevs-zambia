@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 5 :Bitcoin Lightning Bootcamp"
+title: "Socratic Seminar 5: Bitcoin Lightning Bootcamp"
 ---
 
 ### Topic
