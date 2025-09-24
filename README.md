@@ -21,3 +21,5 @@ The initiative officially launched during the first BitDev workshop in Lusaka (A
 
 - March 2025 — BitDevs Zambia Meetup (Lusaka):
 Our first official BitDevs-style meetup! Developers and Bitcoiners gathered in Lusaka.
+
+To see all our events please visit [Events](https://bitdevszambia.org/events) 
