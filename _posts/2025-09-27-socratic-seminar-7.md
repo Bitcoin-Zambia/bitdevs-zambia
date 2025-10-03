@@ -19,15 +19,16 @@ At 3:00 PM - 5:00 PM
 
 ## Announcements
 
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [Bitcoin Zambia](https://bitcoinzambia.org/) and [Wallet of Satoshi](https://www.walletofsatoshi.com/) for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Bitcoin Zambia](https://bitcoinzambia.org/) and [Wallet of Satoshi](https://www.walletofsatoshi.com/) for food, refreshments, and event space.
 
 Join us for this month's BitDevs Lusaka meetup on Saturday, September 27th, as we explore how to mine blocks on Bitcoin testnet using your laptop’s CPU!
 
 [Register here](https://luma.com/edm9f7em)
 
-Held onlineon google meet
+Held online on Google Meet
 
 Follow BitDevs Zambia on:
 
 - [Twitter](https://x.com/bitdevszambia)
 - [Primal](https://primal.net/p/nprofile1qqsy84evlee43jayd5zru26ypctt2n9wajn4h698vy5ynp32peuc35s8yce5j)
+
