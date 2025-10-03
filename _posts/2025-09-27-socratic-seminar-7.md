@@ -23,7 +23,9 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 Join us for this month's BitDevs Lusaka meetup on Saturday, September 27th, as we explore how to mine blocks on Bitcoin testnet using your laptop’s CPU!
 
-[Register here](redacted)
+[Register here](https://luma.com/edm9f7em)
+
+Held onlineon google meet
 
 Follow BitDevs Zambia on:
 
