@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 3"
+title: "Mutinynet/Voltage Lightning Wallet Creation Live Demo"
 ---
 
 ### Topic
