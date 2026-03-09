@@ -27,7 +27,7 @@ BitDevs Zambia Seminar
 
 [Register here](https://luma.com/cnydvxph)
 
-Follow BitDevs Zambia on:
+Follow BitDevs Zambia on Nostr and X:
 
 - [Twitter](https://x.com/bitdevszambia)
-- [Primal](https://primal.net/p/nprofile1qqsy84evlee43jayd5zru26ypctt2n9wajn4h698vy5ynp32peuc35s8yce5j)
+- [Nostr](https://primal.net/p/nprofile1qqsy84evlee43jayd5zru26ypctt2n9wajn4h698vy5ynp32peuc35s8yce5j)
