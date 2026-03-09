@@ -1,4 +1,4 @@
-}---
+---
 layout: post
 type: socratic
 title: "Time2Build Challenge Prep Calls"
