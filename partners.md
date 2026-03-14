@@ -14,7 +14,7 @@ We are proud to work with organisations and individuals who support Bitcoin educ
   </li>
 
   <li class="partner">
-    <a href="https://anitaposch.com/" target="_blank">Anita Posch</a> — Author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa.
+    <a href="https://anita.onl/" target="_blank">Anita</a> — Author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa.
   </li>
 
   <li class="partner">
