@@ -1,3 +1,8 @@
+---
+layout: default
+title: Donate
+---
+
 BitDevs Zambia is a grassroots group building local Bitcoin developer capacity through meetups, workshops, bootcamps, and hackathons.
 
 If you find our work valuable, please consider donating to help us cover basic event costs like venue, internet, and learning materials.
