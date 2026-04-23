@@ -10,6 +10,10 @@ We are proud to work with organisations and individuals who support Bitcoin educ
 
 <ul class="partners-list">
   <li class="partner">
+    <a href="https://bitcoinzambia.org" target="_blank">Bitcoin Zambia</a> — Bitcoin Education | Community Empowerment.
+  </li>
+  
+  <li class="partner">
     <a href="https://bffbtc.org" target="_blank">Bitcoin for Fairness</a> — Supporting Grassroots Bitcoin Education in the Underdeveloped World.
   </li>
 
@@ -28,4 +32,13 @@ We are proud to work with organisations and individuals who support Bitcoin educ
   <li class="partner">
     <a href="https://www.walletofsatoshi.com/" target="_blank">Wallet of Satoshi</a> — The World's Simplest Bitcoin Lightning Wallet.
   </li>
+
+  <li class="partner">
+    <a href="https://5atoshiNakamoto.github.io/" target="_blank">5atoshiNakamoto</a> — Bitcoin Educator and Advisor.
+  </li>
+
+  <li class="partner">
+    <a href="https://bantubitcoin.github.io/" target="_blank">Bantu Bitcoin</a> — A Bitcoin-only education podcast from rural Zambia, in Bemba and English.
+  </li>
+  
 </ul>
