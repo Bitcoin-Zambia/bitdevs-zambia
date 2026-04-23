@@ -18,7 +18,7 @@ We are excited to introduce our very first [Socratic Seminar](/about)!
 
 A meetup with Bitcoin educator Anita focused on Bitcoin development and community building.
 
-[Helpful Resources](https://anitaposch.com/bitcoin-devs-start/Resources-Devs-Meetup-Zambia-2025.pdf)
+[Helpful Resources](https://anita.onl/bitcoin-devs-start/Resources-Devs-Meetup-Zambia-2025.pdf)
 
 Follow BitDevs Zambia on:
 
