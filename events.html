@@ -5,6 +5,8 @@ title: Events
 
 <div class="Home">
   <div class="Home-posts">
+  **Find new (and past) meetup dates <a href="https://bitcoinzambia.org/meetups/" target="_blank">here</a> and register to join <a href="https://lu.ma/user/bitdevszm" target="_blank">here</a> or <a href="https://luma.com/bitdevs_zambia" target="_blank">here</a>.**
+ <br>
     <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
     {% for post in site.posts %} {% if post.type == "socratic" %}
     <div class="Home-posts-post">
@@ -13,7 +15,5 @@ title: Events
       <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
     </div>
     {% endif %} {% endfor %}
-  <br>
-  **Find new (and past) meetup dates <a href="https://bitcoinzambia.org/meetups/" target="_blank">here</a> and register to join <a href="https://lu.ma/user/bitdevszm" target="_blank">here</a> or <a href="https://luma.com/bitdevs_zambia" target="_blank">here</a>.**
- </div>
+  </div>
 </div>
