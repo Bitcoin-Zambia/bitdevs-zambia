@@ -4,8 +4,9 @@ description: BitDevs Zambia is a community of Bitcoiners in Zambia interested in
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://lu.ma/user/bitdevszm', external: true}
-  - {name: "X", url: "https://x.com/bitdevszambia", external: true}
+  - {name: 'Socials', url: '/socials'}
+  # - {name: 'Meetup', url: 'https://lu.ma/user/bitdevszm', external: true}
+  # - {name: "X", url: "https://x.com/bitdevszambia", external: true}
   - {name: 'Partners', url: '/partners', external: false}
-  - {name: "BitcoinZambia.org", url: "https://bitcoinzambia.org", external: true}
+  # - {name: "BitcoinZambia.org", url: "https://bitcoinzambia.org", external: true}
   - {name: 'Donate', url: '/donate'}
