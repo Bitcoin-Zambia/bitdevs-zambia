@@ -21,6 +21,7 @@ We welcome developers, builders, educators, entrepreneurs, students, and anyone 
     <li>Two BitDevs Zambia members among winners of the global <a href="https://www.time2build.dev/" target="_blank" rel="noopener noreferrer">Breez Time2Build Challenge</a></li>
     <li>Bit2Kwacha – Instant Bitcoin/Kwacha Exchange Platform (resulting from Lightning Bootcamp) – <a href="https://bit2kwacha.info/" target="_blank" rel="noopener noreferrer">bit2kwacha.info</a></li>
     <li>Recognized by <a href="https://www.btrust.tech/" target="_blank" rel="noopener noreferrer">Btrust</a> for supporting a strong and sustainable local BitDevs community in Africa – <a href="https://x.com/btrustteam/status/2014361491479109705" target="_blank" rel="noopener noreferrer">Twitter acknowledgement</a></li>
+    <li>In early 2026, BitDevs Zambia member Victor Chabunda awarded a <a href="https://blog.btrust.tech/q1-2026-btrust-developer-grant-announcement/" rel="noopener noreferrer">Btrust Developer Grant</a></li>
     <li>BitDevs members currently participating in <strong>BOSS Challenge</strong> and <strong>Mastering Bitcoin (Live Cohort & Self-paced)</strong></li>
   </ul>
 
