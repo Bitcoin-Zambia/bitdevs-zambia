@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Social Media
-permalink: /socials/
+permalink: /connect/
 ---
 
-## Social Media
-
-Connect with us.
+### Connect with Us
 
 <ul class="partners-list">
 
