@@ -7,8 +7,17 @@ title: Events
   <div class="Home-posts">
   **Register to join <a href="https://lu.ma/user/bitdevszm" target="_blank">here</a> or <a href="https://luma.com/bitdevs_zambia" target="_blank">here</a> (sorry for multiple links atm). And find more new (and past) Bitcoin Zambia meetup dates <a href="https://bitcoinzambia.org/meetups/" target="_blank">here</a>.**
  <br>
-    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-    {% for post in site.posts %} {% if post.type == "socratic" %}
+    <h2 class="Home-posts-title">Upcoming Events</h2>
+    {% for post in site.posts %} {% if post.type == "socratic" and post.date > site.time %}
+    <div class="Home-posts-post">
+      <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+      <span class="Home-posts-post-arrow">&raquo;</span>
+      <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+    {% endif %} {% endfor %}
+
+    <h2 class="Home-posts-title">Recent Events</h2>
+    {% for post in site.posts %} {% if post.type == "socratic" and post.date < site.time %}
     <div class="Home-posts-post">
       <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
       <span class="Home-posts-post-arrow">&raquo;</span>
