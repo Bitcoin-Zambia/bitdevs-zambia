@@ -12,6 +12,18 @@ We also share developer-focused opportunities such as grants, bounties, fellowsh
 
 We welcome developers, builders, educators, entrepreneurs, students, and anyone curious about how Bitcoin works under the hood and how it can be applied to solve real challenges in Zambia.
 
+### Key Milestones Since 2025
+
+  <ul style="margin-left: 1rem;">
+    <li>Zambia’s First Bitcoin Developer Meetups (March 2025)</li>
+    <li>Bitcoin Lightning Developer Bootcamp – Lusaka (August 2025)</li>
+    <li>Female Developers Meetup – Lusaka (October 2025)</li>
+    <li>Two BitDevs Zambia members among winners of the global <a href="https://www.time2build.dev/" target="_blank" rel="noopener noreferrer">Breez Time2Build Challenge</a></li>
+    <li>Bit2Kwacha – Instant Bitcoin/Kwacha Exchange Platform (resulting from Lightning Bootcamp) – <a href="https://bit2kwacha.info/" target="_blank" rel="noopener noreferrer">bit2kwacha.info</a></li>
+    <li>Recognized by <a href="https://www.btrust.tech/" target="_blank" rel="noopener noreferrer">Btrust</a> for supporting a strong and sustainable local BitDevs community in Africa – <a href="https://x.com/btrustteam/status/2014361491479109705" target="_blank" rel="noopener noreferrer">Twitter acknowledgement</a></li>
+    <li>BitDevs members currently participating in <strong>BOSS Challenge</strong> and <strong>Mastering Bitcoin (Live Cohort & Self-paced)</strong></li>
+  </ul>
+
 ### What We Do
 
 - **Bootcamps**: A structured program combining education, collaboration, and practical building to grow Bitcoin technical skills in Zambia.
@@ -40,6 +52,6 @@ Whether you're a seasoned developer or new to Bitcoin, BitDevs Zambia is a space
 
 👉 [Follow us on X](https://x.com/bitdevszambia)<br>
 
-👉 [Follow us on GitHub](https://github.com/Bitcoin-Zambia/bitdevs-zambia)
+👉 [Follow us on GitHub](https://github.com/Bitcoin-Zambia)
 
 Together, we’re building a grassroots Bitcoin development community in Zambia.
