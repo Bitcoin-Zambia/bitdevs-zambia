@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Media
+title: Connect with Us
 permalink: /connect/
 ---
 
