@@ -1,10 +1,11 @@
-title: BitDevs.BitcoinZambia.org
+title: @BitDevsZambia
 description: BitDevs Zambia is a community of Bitcoiners in Zambia interested in technical discussions, development, and building local Bitcoin solutions.
 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
   - {name: 'Connect', url: '/connect'}
+  - {name: 'Blog', url: '/blog'}
   # - {name: 'Meetup', url: 'https://lu.ma/user/bitdevszm', external: true}
   # - {name: "X", url: "https://x.com/bitdevszambia", external: true}
   # - {name: 'Partners', url: '/partners', external: false}
