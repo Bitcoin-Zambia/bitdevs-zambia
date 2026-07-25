@@ -1,7 +1,7 @@
 
-# BitDevsZambia.org
+# BitDevs.BitcoinZambia.org
 
-[BitDevs Zambia](https://BitDevsZambia.org) is a [Bitcoin Zambia](https://BitcoinZambia.org) initiative to foster Bitcoin development, education, and open-source collaboration in Zambia. Inspired by global BitDevs communities, this project provides a local space for developers, researchers, and Bitcoin enthusiasts to study and contribute to Bitcoin's protocol and ecosystem.
+[BitDevs Zambia](https://BitDevs.BitcoinZambia.org) is a [Bitcoin Zambia](https://BitcoinZambia.org) initiative to foster Bitcoin development, education, and open-source collaboration in Zambia. Inspired by global BitDevs communities, this project provides a local space for developers, researchers, and Bitcoin enthusiasts to study and contribute to Bitcoin's protocol and ecosystem.
 
 The initiative officially launched during the first BitDevs workshop in Lusaka (April 2025), hosted by Bitcoin Zambia and Anita, supported by Bitcoin for Fairness.
 
@@ -24,4 +24,4 @@ The initiative officially launched during the first BitDevs workshop in Lusaka (
 - March 2025 — BitDevs Zambia Meetup (Lusaka):
 Our first official BitDevs-style meetup! Developers and Bitcoiners gathered in Lusaka.
 
-### Check out our [events](https://bitdevszambia.org/events)!
+### Check out our [events](https://bitdevs.bitcoinzambia.org/events)!
